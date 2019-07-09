@@ -51,8 +51,8 @@ EXPERIENCE
 EDUCATION
 ======								
 
-**Queens College**
-
+ **Queens College**  
  	Queens, NY | Bachelor of Arts in Accounting | September 2012 - June 2016
+
 
 
