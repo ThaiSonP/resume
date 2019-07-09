@@ -1,29 +1,39 @@
-<b>Tyson Pan</b>
-
-<a href="Thaisonp.github.io">Thaisonp.github.io</a> | tysonpan@pursuit.org | (347)-761-7622
+Tyson Pan
+=========
+[Portfolio](Thaisonp.github.io)| tysonpan@pursuit.org | (347)-761-7622
 
 SKILLS						 					
-
-Javascript, Node, Express, React-Redux, PostgreSQL
+======
+ 
+* Javascript 
+* Node 
+* Express 
+* React-Redux 
+* PostgreSQL
 
 PROJECTS						
+=========
 
-Next Step : nextstep-pursuit.herokuapp.com
-Completed: May 20th, 2019
-Six week group built full stack React-Redux application to prepare users for interviews			 		
-Use Redux to centralize data and pass it in a quick and scalable format.
-CSS Grid Layout & Material-UI are used to streamline a successful user experience on all devices.
-Future iterations will use Microsoft Azure to provide an organic text to speech experience  
+[Next Step](nextstep-pursuit.herokuapp.com)
+=========
+
+* April 9th, 2019 - Present 
+* Group built Full Stack React-Redux application designed to prepare users for interviews.			 	
+* Use Redux to centralize the users' data and pass it in a quick and scalable format.
+* CSS Grid Layout & Material-UI are used to streamline a seamless user experience on all devices.
+* Future iterations will use Microsoft Azure to provide an organic text to speech experience.  
 				
-WonderFrame
-Completed April 9th, 2019
-Four week full stack React application imitating Pinterest				 	
-PostgreSQL is used as for databasing Users, Images, Boards 
-Becrypt is used to hash passwords
-Passport is used to keep track of the users’ session when they login
-React is used to gather data and display that data in a reusable fashion 
+[WonderFrame](https://github.com/ThaiSonP/wonderframe1.2)
+===========
+* Completed March 25th, 2019
+* Four week Full-Stack React application imitating Pinterest.				 	
+* PostgreSQL is used for databasing Users, login credentials, posts, and images.  
+* Becrypt is used to hash passwords and secure the users' login credentials.
+* Passport is used to keep track of the users’ session when they login.
+* React is used to gather data and display that data in a reusable fashion. 
  
 EXPERIENCE
+==========
 							
 Pursuit 										          New York, NY 
 Full-Stack Web Fellow           					                                                 2018 - Present
